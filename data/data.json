@@ -58,546 +58,624 @@
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 1
+            "number": 1,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno qui fait des pompes",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 2
+            "number": 2,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno qui fait des squats",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 3
+            "number": 3,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno boit de l'eau",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 4
+            "number": 4,
+            "image": "card_cover.png"
         },
         {
             "name": "Bol de ramens",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 5
+            "number": 5,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno câlin",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 6
+            "number": 6,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno qui peint son emote sur du bois - Artiste",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 7
+            "number": 7,
+            "image": "card_cover.png"
         },
         {
             "name": "La casquette du Xeno",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 8
+            "number": 8,
+            "image": "card_cover.png"
         },
         {
             "name": "Rushianna et ses blagues nulles",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 9
+            "number": 9,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno le corbeau",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 10
+            "number": 10,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno hypnotisé par une échelle - RE0",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 11
+            "number": 11,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno No man's Sky",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 12
+            "number": 12,
+            "image": "card_cover.png"
         },
         {
             "name": "Pio No Man's Sky",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 13
+            "number": 13,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno Kena",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 14
+            "number": 14,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno Leon",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 15
+            "number": 15,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno sur le dos du Kiro dans Fall Guys",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 16
+            "number": 16,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno bébé - Among the sleep",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 17
+            "number": 17,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno avec un dodo - Ark",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 18
+            "number": 18,
+            "image": "card_cover.png"
         },
         {
             "name": "A2oncraft speedrunner",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 19
+            "number": 19,
+            "image": "card_cover.png"
         },
         {
             "name": "Shoot Ashley - RE4",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 20
+            "number": 20,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno Poufsouffle Hogwarts",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 21
+            "number": 21,
+            "image": "card_cover.png"
         },
         {
             "name": "A2onCraft Poufsouffle Hogwarts",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 22
+            "number": 22,
+            "image": "card_cover.png"
         },
         {
             "name": "Kiro Serpentard Hogwarts",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 23
+            "number": 23,
+            "image": "card_cover.png"
         },
         {
             "name": "CreepyShift : Xeno Serveur",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 24
+            "number": 24,
+            "image": "card_cover.png"
         },
         {
             "name": "Creepy Shift Jukebox hanté",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 25
+            "number": 25,
+            "image": "card_cover.png"
         },
         {
             "name": "Kiro Astroneer",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 26
+            "number": 26,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno Astroneer",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 27
+            "number": 27,
+            "image": "card_cover.png"
         },
         {
             "name": "Le barbequeilloux ! - Raft",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 28
+            "number": 28,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno en Tunic",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 29
+            "number": 29,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno with Chtuhlu",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 30
+            "number": 30,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno avec du vin - The Wine",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 31
+            "number": 31,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno ( coucher et lever du soleil ) avec le drone - The Beggar",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 32
+            "number": 32,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno cacher dans un placard et on voit un bout du marteau de la nonne - Evil Nun",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 33
+            "number": 33,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno sauve ( bullet ) le chien dans ses bras -  Blair Witch",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 34
+            "number": 34,
+            "image": "card_cover.png"
         },
         {
             "name": "La main écraser par le marteau - Little nightmares 2",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 35
+            "number": 35,
+            "image": "card_cover.png"
         },
         {
             "name": "Un morceau de miroir avec un fantome qui apparait dessus - In Sound Mind",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 36
+            "number": 36,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno en combi de plongée et qui est à table et bouffe un peeper - Subnautica",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 37
+            "number": 37,
+            "image": "card_cover.png"
         },
         {
             "name": "The Gunk",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 38
+            "number": 38,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno dans satisfactory",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 39
+            "number": 39,
+            "image": "card_cover.png"
         },
         {
             "name": "Among Us tueur",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 40
+            "number": 40,
+            "image": "card_cover.png"
         },
         {
             "name": "Among Us Crewmate",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 41
+            "number": 41,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno Forgotton Anne",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 42
+            "number": 42,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno Ghostwire Tokyo",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 43
+            "number": 43,
+            "image": "card_cover.png"
         },
         {
             "name": "Dishonored",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 44
+            "number": 44,
+            "image": "card_cover.png"
         },
         {
             "name": "Dollmare",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 45
+            "number": 45,
+            "image": "card_cover.png"
         },
         {
             "name": "Ori",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 46
+            "number": 46,
+            "image": "card_cover.png"
         },
         {
             "name": "Supraland",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 47
+            "number": 47,
+            "image": "card_cover.png"
         },
         {
             "name": "NO CARD",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 48
+            "number": 48,
+            "image": "card_cover.png"
         },
         {
             "name": "NO CARD",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 49
+            "number": 49,
+            "image": "card_cover.png"
         },
         {
             "name": "NO CARD",
             "description": "",
             "season": 1,
             "rarity": 1,
-            "number": 50
+            "number": 50,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno qui reste longtemps dans les casiers de Alien Isolation",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 51
+            "number": 51,
+            "image": "card_cover.png"
         },
         {
             "name": "FNAF SB - Xeno dans Freddy",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 52
+            "number": 52,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno en tenue d'astronautes - The Invincible",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 53
+            "number": 53,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno qui flotte dans une station spatiale - Observation",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 54
+            "number": 54,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno cacher dans un tonneau avec sa caméra en main et le monstre qui observe sans broncher -Outlast",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 55
+            "number": 55,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno  qui récupère des pages dans la forêt du Slenderman",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 56
+            "number": 56,
+            "image": "card_cover.png"
         },
         {
             "name": "Bendy and the Ink Machine Xeno pancarte",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 57
+            "number": 57,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno médecin légiste ou démon sur armoire - Mortuary Assistant",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 58
+            "number": 58,
+            "image": "card_cover.png"
         },
         {
             "name": "Cakey's Twisted Bakery - Xeno qui lui enfonce un cupcake dans la bouche",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 59
+            "number": 59,
+            "image": "card_cover.png"
         },
         {
             "name": "Kiro qui jette un cailloux et tue une mouche - Grounded",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 60
+            "number": 60,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno qui regarde la mouche qu'as tuer Kiro - Grounded",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 61
+            "number": 61,
+            "image": "card_cover.png"
         },
         {
             "name": "Les fesses de Leon",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 62
+            "number": 62,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno qui vole dans les backrooms",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 63
+            "number": 63,
+            "image": "card_cover.png"
         },
         {
             "name": "Kiro qui vole dans les backrooms",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 64
+            "number": 64,
+            "image": "card_cover.png"
         },
         {
             "name": "A2onCraft qui vole dans les backrooms",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 65
+            "number": 65,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno qui marche pas droit dans les backrooms ( private joke )",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 66
+            "number": 66,
+            "image": "card_cover.png"
         },
         {
             "name": "Kiro drogué aux champis des backrooms ( private joke )",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 67
+            "number": 67,
+            "image": "card_cover.png"
         },
         {
             "name": "Le pet du Xeno",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 68
+            "number": 68,
+            "image": "card_cover.png"
         },
         {
             "name": "Sonnette avec ses chats",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 69
+            "number": 69,
+            "image": "card_cover.png"
         },
         {
             "name": "Rushianna qui ce fait voler l'eau par le Xeno Grounded",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 70
+            "number": 70,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno en combinaison de Journey to the savage planet",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 71
+            "number": 71,
+            "image": "card_cover.png"
         },
         {
             "name": "Pio en combinaison de Journey to the savage planet",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 72
+            "number": 72,
+            "image": "card_cover.png"
         },
         {
             "name": "FNAF 1 - Xeno au bureau, avec donut, caméras, ventilateur",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 73
+            "number": 73,
+            "image": "card_cover.png"
         },
         {
             "name": "Kiro le beau parleur",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 74
+            "number": 74,
+            "image": "card_cover.png"
         },
         {
             "name": "A2oncraft pute",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 75
+            "number": 75,
+            "image": "card_cover.png"
         },
         {
             "name": "Legion le plague doctor",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 76
+            "number": 76,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno en Lara croft Remake",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 77
+            "number": 77,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno le tireur d'Elite dans Metro 2033",
             "description": "",
             "season": 1,
             "rarity": 2,
-            "number": 78
+            "number": 78,
+            "image": "card_cover.png"
         },
         {
             "name": "",
@@ -606,7 +684,8 @@
             "description": "\"Je crois qu'elle entend tout...\"",
             "season": 1,
             "rarity": 3,
-            "number": 79
+            "number": 79,
+            "image": "card_cover.png"
         },
         {
             "name": "Kiki",
@@ -614,7 +693,8 @@
             "description": "Cocatrice né d'un œuf pourri, qui n'est pas sortie de son enclot depuis 2006",
             "season": 1,
             "rarity": 3,
-            "number": 80
+            "number": 80,
+            "image": "card_cover.png"
         },
         {
             "name": "",
@@ -623,7 +703,8 @@
             "description": "\"Lui dit pas qu'il a été adopté !\"",
             "season": 1,
             "rarity": 3,
-            "number": 81
+            "number": 81,
+            "image": "card_cover.png"
         },
         {
             "name": "Coup de poing",
@@ -632,7 +713,8 @@
             "description": "\"Plus jamais je lui donnerai de gants de boxe !\"",
             "season": 1,
             "rarity": 3,
-            "number": 82
+            "number": 82,
+            "image": "card_cover.png"
         },
         {
             "name": "Coup de poing",
@@ -641,7 +723,8 @@
             "description": "\"C'était mon zombie !\"",
             "season": 1,
             "rarity": 3,
-            "number": 83
+            "number": 83,
+            "image": "card_cover.png"
         },
         {
             "name": "Coup de poing",
@@ -650,7 +733,8 @@
             "description": "\"10 points pour xéno !\"",
             "season": 1,
             "rarity": 3,
-            "number": 84
+            "number": 84,
+            "image": "card_cover.png"
         },
         {
             "name": "",
@@ -659,7 +743,8 @@
             "description": "",
             "season": 1,
             "rarity": 3,
-            "number": 85
+            "number": 85,
+            "image": "card_cover.png"
         },
         {
             "name": "",
@@ -668,7 +753,8 @@
             "description": "",
             "season": 1,
             "rarity": 3,
-            "number": 86
+            "number": 86,
+            "image": "card_cover.png"
         },
         {
             "name": "2 pieds gauches",
@@ -677,7 +763,8 @@
             "description": "\"Je peux le fai-AAAAH !\"",
             "season": 1,
             "rarity": 3,
-            "number": 87
+            "number": 87,
+            "image": "card_cover.png"
         },
         {
             "name": "Tireur d'élite",
@@ -686,7 +773,8 @@
             "description": "Expert en précision, sauf sous pression !",
             "season": 1,
             "rarity": 3,
-            "number": 88
+            "number": 88,
+            "image": "card_cover.png"
         },
         {
             "name": "Ingénieur",
@@ -695,7 +783,8 @@
             "description": "Il a littéralement les fils qui se touchent.",
             "season": 1,
             "rarity": 3,
-            "number": 89
+            "number": 89,
+            "image": "card_cover.png"
         },
         {
             "name": "Pilote",
@@ -704,7 +793,8 @@
             "description": "Etonnement, il ne répond jamais quand on lui demande son permis...",
             "season": 1,
             "rarity": 3,
-            "number": 90
+            "number": 90,
+            "image": "card_cover.png"
         },
         {
             "name": "Miam",
@@ -713,7 +803,8 @@
             "description": "Attention, pensez à bien nourrir vos ascenseurs de companie !",
             "season": 1,
             "rarity": 3,
-            "number": 91
+            "number": 91,
+            "image": "card_cover.png"
         },
         {
             "name": "Mine",
@@ -722,7 +813,8 @@
             "description": "Directed by Michael Bay!",
             "season": 1,
             "rarity": 3,
-            "number": 92
+            "number": 92,
+            "image": "card_cover.png"
         },
         {
             "name": "Piège à ours",
@@ -731,7 +823,8 @@
             "description": "\"Ouille...\"",
             "season": 1,
             "rarity": 3,
-            "number": 93
+            "number": 93,
+            "image": "card_cover.png"
         },
         {
             "name": "Pas d'tête",
@@ -740,7 +833,8 @@
             "description": "\"Wow, fait tout noir...\"",
             "season": 1,
             "rarity": 3,
-            "number": 94
+            "number": 94,
+            "image": "card_cover.png"
         },
         {
             "name": "Fusil à pompe",
@@ -749,7 +843,8 @@
             "description": "\"Y'a du tir allié ?\"",
             "season": 1,
             "rarity": 3,
-            "number": 95
+            "number": 95,
+            "image": "card_cover.png"
         },
         {
             "name": "QUOI ?!",
@@ -758,7 +853,8 @@
             "description": "\"Pourquoi il a plus de tête ?!\"",
             "season": 1,
             "rarity": 3,
-            "number": 96
+            "number": 96,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno Chad",
@@ -766,7 +862,8 @@
             "description": "Qui n'a jamais rêver d'avoir un corps aussi sublîme ?",
             "season": 1,
             "rarity": 4,
-            "number": 97
+            "number": 97,
+            "image": "card_cover.png"
         },
         {
             "name": "Kira",
@@ -774,7 +871,8 @@
             "description": "Kiro ne vous plaît pas ? Et maintenant ?",
             "season": 1,
             "rarity": 4,
-            "number": 98
+            "number": 98,
+            "image": "kira.png"
         },
         {
             "name": "Le coquin",
@@ -782,7 +880,8 @@
             "description": "",
             "season": 1,
             "rarity": 4,
-            "number": 99
+            "number": 99,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno Croft",
@@ -791,7 +890,8 @@
             "description": "",
             "season": 1,
             "rarity": 4,
-            "number": 100
+            "number": 100,
+            "image": "card_cover.png"
         },
         {
             "name": "Xeno qui utilise son marteau",
@@ -800,7 +900,8 @@
             "description": "",
             "season": 1,
             "rarity": 4,
-            "number": 101
+            "number": 101,
+            "image": "card_cover.png"
         },
         {
             "name": "Gaby qui lance des clous",
@@ -809,7 +910,8 @@
             "description": "",
             "season": 1,
             "rarity": 4,
-            "number": 102
+            "number": 102,
+            "image": "card_cover.png"
         },
         {
             "name": "CA TOURNE !",
@@ -818,7 +920,8 @@
             "description": "",
             "season": 1,
             "rarity": 4,
-            "number": 103
+            "number": 103,
+            "image": "card_cover.png"
         },
         {
             "name": "J'ai peur...",
@@ -827,7 +930,8 @@
             "description": "",
             "season": 1,
             "rarity": 4,
-            "number": 104
+            "number": 104,
+            "image": "card_cover.png"
         }
     ]
 }
