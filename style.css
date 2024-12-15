@@ -1,0 +1,19 @@
+html {
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#background {
+	object-fit: cover;
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	width: 100vw;
+	height: 100vh;
+	z-index: -1000;
+}
+
+#cardList {
+	display: grid;
+	grid-template-columns: auto auto auto auto auto auto;
+	gap: 10px
+}

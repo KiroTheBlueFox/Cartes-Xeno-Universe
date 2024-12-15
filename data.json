@@ -1,0 +1,833 @@
+{
+    "boosters": {
+        "basic": {
+            "name": "Basique",
+            "image": "basic_booster.png",
+            "drop_chances": {
+                "common": 1,
+                "rare": 1,
+                "epic": 1,
+                "legendary": 1
+            },
+            "card_count": 5
+        },
+        "tier2": {
+            "name": "Tier 2",
+            "image": "basic_booster.png",
+            "drop_chances": {
+                "common": 1,
+                "rare": 1,
+                "epic": 1,
+                "legendary": 1
+            },
+            "card_count": 3,
+            "minimum_quantities": {
+                "epic": 1
+            }
+        },
+        "tier3": {
+            "name": "Tier 3",
+            "image": "basic_booster.png",
+            "drop_chances": {
+                "common": 1,
+                "rare": 1,
+                "epic": 1,
+                "legendary": 1
+            },
+            "card_count": 5,
+            "minimum_quantities": {
+                "epic": 2
+            }
+        }
+    },
+    "seasons": [
+        {
+            "name": "LeXenoPanda",
+            "description": "La première saison des cartes du XenoPanda !"
+        }
+    ],
+    "rarity": [
+        "common",
+        "rare",
+        "epic",
+        "legendary"
+    ],
+    "cards": [
+        {
+            "name": "Xeno perd le fil de la discussion",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 1
+        },
+        {
+            "name": "Xeno qui fait des pompes",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 2
+        },
+        {
+            "name": "Xeno qui fait des squats",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 3
+        },
+        {
+            "name": "Xeno boit de l'eau",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 4
+        },
+        {
+            "name": "Bol de ramens",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 5
+        },
+        {
+            "name": "Xeno câlin",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 6
+        },
+        {
+            "name": "Xeno qui peint son emote sur du bois - Artiste",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 7
+        },
+        {
+            "name": "La casquette du Xeno",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 8
+        },
+        {
+            "name": "Rushianna et ses blagues nulles",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 9
+        },
+        {
+            "name": "Xeno le corbeau",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 10
+        },
+        {
+            "name": "Xeno hypnotisé par une échelle - RE0",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 11
+        },
+        {
+            "name": "Xeno No man's Sky",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 12
+        },
+        {
+            "name": "Pio No Man's Sky",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 13
+        },
+        {
+            "name": "Xeno Kena",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 14
+        },
+        {
+            "name": "Xeno Leon",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 15
+        },
+        {
+            "name": "Xeno sur le dos du Kiro dans Fall Guys",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 16
+        },
+        {
+            "name": "Xeno bébé - Among the sleep",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 17
+        },
+        {
+            "name": "Xeno avec un dodo - Ark",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 18
+        },
+        {
+            "name": "A2oncraft speedrunner",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 19
+        },
+        {
+            "name": "Shoot Ashley - RE4",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 20
+        },
+        {
+            "name": "Xeno Poufsouffle Hogwarts",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 21
+        },
+        {
+            "name": "A2onCraft Poufsouffle Hogwarts",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 22
+        },
+        {
+            "name": "Kiro Serpentard Hogwarts",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 23
+        },
+        {
+            "name": "CreepyShift : Xeno Serveur",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 24
+        },
+        {
+            "name": "Creepy Shift Jukebox hanté",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 25
+        },
+        {
+            "name": "Kiro Astroneer",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 26
+        },
+        {
+            "name": "Xeno Astroneer",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 27
+        },
+        {
+            "name": "Le barbequeilloux ! - Raft",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 28
+        },
+        {
+            "name": "Xeno en Tunic",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 29
+        },
+        {
+            "name": "Xeno with Chtuhlu",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 30
+        },
+        {
+            "name": "Xeno avec du vin - The Wine",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 31
+        },
+        {
+            "name": "Xeno ( coucher et lever du soleil ) avec le drone - The Beggar",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 32
+        },
+        {
+            "name": "Xeno cacher dans un placard et on voit un bout du marteau de la nonne - Evil Nun",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 33
+        },
+        {
+            "name": "Xeno sauve ( bullet ) le chien dans ses bras -  Blair Witch",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 34
+        },
+        {
+            "name": "La main écraser par le marteau - Little nightmares 2",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 35
+        },
+        {
+            "name": "Un morceau de miroir avec un fantome qui apparait dessus - In Sound Mind",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 36
+        },
+        {
+            "name": "Xeno en combi de plongée et qui est à table et bouffe un peeper - Subnautica",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 37
+        },
+        {
+            "name": "The Gunk",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 38
+        },
+        {
+            "name": "Xeno dans satisfactory",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 39
+        },
+        {
+            "name": "Among Us tueur",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 40
+        },
+        {
+            "name": "Among Us Crewmate",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 41
+        },
+        {
+            "name": "Xeno Forgotton Anne",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 42
+        },
+        {
+            "name": "Xeno Ghostwire Tokyo",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 43
+        },
+        {
+            "name": "Dishonored",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 44
+        },
+        {
+            "name": "Dollmare",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 45
+        },
+        {
+            "name": "Ori",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 46
+        },
+        {
+            "name": "Supraland",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 47
+        },
+        {
+            "name": "NO CARD",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 48
+        },
+        {
+            "name": "NO CARD",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 49
+        },
+        {
+            "name": "NO CARD",
+            "description": "",
+            "season": 1,
+            "rarity": 1,
+            "number": 50
+        },
+        {
+            "name": "Xeno qui reste longtemps dans les casiers de Alien Isolation",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 51
+        },
+        {
+            "name": "FNAF SB - Xeno dans Freddy",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 52
+        },
+        {
+            "name": "Xeno en tenue d'astronautes - The Invincible",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 53
+        },
+        {
+            "name": "Xeno qui flotte dans une station spatiale - Observation",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 54
+        },
+        {
+            "name": "Xeno cacher dans un tonneau avec sa caméra en main et le monstre qui observe sans broncher -Outlast",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 55
+        },
+        {
+            "name": "Xeno  qui récupère des pages dans la forêt du Slenderman",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 56
+        },
+        {
+            "name": "Bendy and the Ink Machine Xeno pancarte",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 57
+        },
+        {
+            "name": "Xeno médecin légiste ou démon sur armoire - Mortuary Assistant",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 58
+        },
+        {
+            "name": "Cakey's Twisted Bakery - Xeno qui lui enfonce un cupcake dans la bouche",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 59
+        },
+        {
+            "name": "Kiro qui jette un cailloux et tue une mouche - Grounded",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 60
+        },
+        {
+            "name": "Xeno qui regarde la mouche qu'as tuer Kiro - Grounded",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 61
+        },
+        {
+            "name": "Les fesses de Leon",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 62
+        },
+        {
+            "name": "Xeno qui vole dans les backrooms",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 63
+        },
+        {
+            "name": "Kiro qui vole dans les backrooms",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 64
+        },
+        {
+            "name": "A2onCraft qui vole dans les backrooms",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 65
+        },
+        {
+            "name": "Xeno qui marche pas droit dans les backrooms ( private joke )",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 66
+        },
+        {
+            "name": "Kiro drogué aux champis des backrooms ( private joke )",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 67
+        },
+        {
+            "name": "Le pet du Xeno",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 68
+        },
+        {
+            "name": "Sonnette avec ses chats",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 69
+        },
+        {
+            "name": "Rushianna qui ce fait voler l'eau par le Xeno Grounded",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 70
+        },
+        {
+            "name": "Xeno en combinaison de Journey to the savage planet",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 71
+        },
+        {
+            "name": "Pio en combinaison de Journey to the savage planet",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 72
+        },
+        {
+            "name": "FNAF 1 - Xeno au bureau, avec donut, caméras, ventilateur",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 73
+        },
+        {
+            "name": "Kiro le beau parleur",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 74
+        },
+        {
+            "name": "A2oncraft pute",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 75
+        },
+        {
+            "name": "Legion le plague doctor",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 76
+        },
+        {
+            "name": "Xeno en Lara croft Remake",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 77
+        },
+        {
+            "name": "Xeno le tireur d'Elite dans Metro 2033",
+            "description": "",
+            "season": 1,
+            "rarity": 2,
+            "number": 78
+        },
+        {
+            "name": "",
+            "subjects": "Kiro",
+            "game": "Minecraft",
+            "description": "\"Je crois qu'elle entend tout...\"",
+            "season": 1,
+            "rarity": 3,
+            "number": 79
+        },
+        {
+            "name": "Kiki",
+            "game": "Minecraft",
+            "description": "Cocatrice né d'un œuf pourri, qui n'est pas sortie de son enclot depuis 2006",
+            "season": 1,
+            "rarity": 3,
+            "number": 80
+        },
+        {
+            "name": "",
+            "subjects": "LeXenoPanda",
+            "game": "Minecraft",
+            "description": "\"Lui dit pas qu'il a été adopté !\"",
+            "season": 1,
+            "rarity": 3,
+            "number": 81
+        },
+        {
+            "name": "Coup de poing",
+            "subjects": "Kiro",
+            "game": "7 Days to Die",
+            "description": "\"Plus jamais je lui donnerai de gants de boxe !\"",
+            "season": 1,
+            "rarity": 3,
+            "number": 82
+        },
+        {
+            "name": "Coup de poing",
+            "subjects": "LeXenoPanda",
+            "game": "7 Days to Die",
+            "description": "\"C'était mon zombie !\"",
+            "season": 1,
+            "rarity": 3,
+            "number": 83
+        },
+        {
+            "name": "Coup de poing",
+            "subjects": "A2onCraft",
+            "game": "7 Days to Die",
+            "description": "\"10 points pour xéno !\"",
+            "season": 1,
+            "rarity": 3,
+            "number": 84
+        },
+        {
+            "name": "",
+            "subjects": "A2onCraft",
+            "game": "Lethal Company",
+            "description": "",
+            "season": 1,
+            "rarity": 3,
+            "number": 85
+        },
+        {
+            "name": "",
+            "subjects": "Kiro",
+            "game": "Lethal Company",
+            "description": "",
+            "season": 1,
+            "rarity": 3,
+            "number": 86
+        },
+        {
+            "name": "2 pieds gauches",
+            "subjects": "LeXenoPanda",
+            "game": "Lethal Company",
+            "description": "\"Je peux le fai-AAAAH !\"",
+            "season": 1,
+            "rarity": 3,
+            "number": 87
+        },
+        {
+            "name": "Tireur d'élite",
+            "subjects": "A2onCraft",
+            "game": "Void Crew",
+            "description": "Expert en précision, sauf sous pression !",
+            "season": 1,
+            "rarity": 3,
+            "number": 88
+        },
+        {
+            "name": "Ingénieur",
+            "subjects": "Kiro",
+            "game": "Void Crew",
+            "description": "Il a littéralement les fils qui se touchent.",
+            "season": 1,
+            "rarity": 3,
+            "number": 89
+        },
+        {
+            "name": "Pilote",
+            "subjects": "LeXenoPanda",
+            "game": "Void Crew",
+            "description": "Etonnement, il ne répond jamais quand on lui demande son permis...",
+            "season": 1,
+            "rarity": 3,
+            "number": 90
+        },
+        {
+            "name": "Miam",
+            "subjects": "A2onCraft",
+            "game": "Kletka",
+            "description": "Attention, pensez à bien nourrir vos ascenseurs de companie !",
+            "season": 1,
+            "rarity": 3,
+            "number": 91
+        },
+        {
+            "name": "Mine",
+            "subjects": "Kiro",
+            "game": "Kletka",
+            "description": "Directed by Michael Bay!",
+            "season": 1,
+            "rarity": 3,
+            "number": 92
+        },
+        {
+            "name": "Piège à ours",
+            "subjects": "LeXenoPanda",
+            "game": "Kletka",
+            "description": "\"Ouille...\"",
+            "season": 1,
+            "rarity": 3,
+            "number": 93
+        },
+        {
+            "name": "Pas d'tête",
+            "subjects": "Alisster",
+            "game": "SCP: 5K",
+            "description": "\"Wow, fait tout noir...\"",
+            "season": 1,
+            "rarity": 3,
+            "number": 94
+        },
+        {
+            "name": "Fusil à pompe",
+            "subjects": "LeXenoPanda",
+            "game": "SCP: 5K",
+            "description": "\"Y'a du tir allié ?\"",
+            "season": 1,
+            "rarity": 3,
+            "number": 95
+        },
+        {
+            "name": "QUOI ?!",
+            "subjects": "Kiro",
+            "game": "SCP: 5K",
+            "description": "\"Pourquoi il a plus de tête ?!\"",
+            "season": 1,
+            "rarity": 3,
+            "number": 96
+        },
+        {
+            "name": "Xeno Chad",
+            "subjects": "LeXenoPanda",
+            "description": "Qui n'a jamais rêver d'avoir un corps aussi sublîme ?",
+            "season": 1,
+            "rarity": 4,
+            "number": 97
+        },
+        {
+            "name": "Kira",
+            "subjects": "Kiro",
+            "description": "Kiro ne vous plaît pas ? Et maintenant ?",
+            "season": 1,
+            "rarity": 4,
+            "number": 98
+        },
+        {
+            "name": "Le coquin",
+            "subjects": "FlorianBouq",
+            "description": "",
+            "season": 1,
+            "rarity": 4,
+            "number": 99
+        },
+        {
+            "name": "Xeno Croft",
+            "subjects": "LeXenoPanda",
+            "game": "Tomb Raider",
+            "description": "",
+            "season": 1,
+            "rarity": 4,
+            "number": 100
+        },
+        {
+            "name": "Xeno qui utilise son marteau",
+            "subjects": "LeXenoPanda",
+            "game": "It Takes Two",
+            "description": "",
+            "season": 1,
+            "rarity": 4,
+            "number": 101
+        },
+        {
+            "name": "Gaby qui lance des clous",
+            "subjects": "Gaby",
+            "game": "It Takes Two",
+            "description": "",
+            "season": 1,
+            "rarity": 4,
+            "number": 102
+        },
+        {
+            "name": "CA TOURNE !",
+            "subjects": "A2onCraft",
+            "game": "Backrooms Rec.",
+            "description": "",
+            "season": 1,
+            "rarity": 4,
+            "number": 103
+        },
+        {
+            "name": "J'ai peur...",
+            "subjects": "LeXenoPanda",
+            "game": "Poppy Playtime",
+            "description": "",
+            "season": 1,
+            "rarity": 4,
+            "number": 104
+        }
+    ]
+}
