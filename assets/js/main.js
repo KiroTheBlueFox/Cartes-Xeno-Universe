@@ -22,7 +22,7 @@ function data_ready(jsonData) {
 
 function createCard(card_data) {
 	const $card = $("<div class=\"js-tilt card-xeno\"></div>");
-	const $image = $("<img>").attr("src", "images/card_cover.png");
+	const $image = $("<img>").attr("src", "images/" + card_data.image);
 	$card.append($image);
 	$cardList.append($card);
 
